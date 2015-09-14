@@ -1,2 +1,2 @@
-# ex
-Examples and experiments
+# go_ex
+Examples and experiments in Go.
